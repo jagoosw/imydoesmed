@@ -12,7 +12,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .topheading {
     background-image: url("https://imydoesmed.com/assets/images/background.jpg");
-    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
     color:white;
     padding: 2rem 2rem;
 }

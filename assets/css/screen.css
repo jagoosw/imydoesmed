@@ -10,6 +10,7 @@ License: https://www.wowthemes.net/freebies-license/
 .mainheading {
     padding: 1rem 0rem;
     background-image: url("https://imydoesmed.com/assets/images/background.jpg");
+
 }
 
 a {
@@ -306,12 +307,14 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    /*font-family: Righteous;*/
+    padding-left:1vw;
 }
 
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
+    padding-left:1vw;
 }
 
 .footer {

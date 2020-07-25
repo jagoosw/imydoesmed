@@ -308,13 +308,13 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     /*font-family: Righteous;*/
-    padding-left:1vw;
+    padding-left:1rem;
 }
 
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
-    padding-left:1vw;
+    padding-left:1rem;
 }
 
 .footer {

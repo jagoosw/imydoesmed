@@ -8,8 +8,10 @@ License: https://www.wowthemes.net/freebies-license/
     .container {max-width:80%;}
 }
 .mainheading {
-    padding: 1rem 0rem;
+    padding: 1rem 1rem;
     background-image: url("https://imydoesmed.com/assets/images/background.jpg");
+    background-size: 100%;
+    color:white;
 
 }
 
@@ -314,7 +316,6 @@ span.post-read-more a:hover {
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
-    padding-left:1rem;
 }
 
 .footer {

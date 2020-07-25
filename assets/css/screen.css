@@ -9,10 +9,11 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .mainheading {
     padding: 1rem 1rem;
+}
+.topheading {
     background-image: url("https://imydoesmed.com/assets/images/background.jpg");
     background-size: 100%;
     color:white;
-
 }
 
 a {

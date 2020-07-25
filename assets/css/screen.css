@@ -12,8 +12,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .topheading {
     background-image: url("https://imydoesmed.com/assets/images/background.jpg");
-    background-size: 100%;
-    color:white;
+    background-size: auto;
+    /*color:white;*/
     padding: 1rem 1rem;
 }
 
@@ -905,4 +905,7 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+.title_bg {
+    background-color: rgba(0,0,0,0.3);
 }

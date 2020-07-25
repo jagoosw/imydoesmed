@@ -914,3 +914,9 @@ iframe {
 .email_logo{
     height:10vh;
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
